@@ -1,16 +1,25 @@
-# kitchen_ware_project
+# Mom's_kitchen
 
-A new Flutter project.
+mom's kitchen is a homemade food ordering system that connect you with the best cooks near to you
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+registration
 
-A few resources to get you started if this is your first Flutter project:
+<img src="https://user-images.githubusercontent.com/90253080/132362625-70aa1798-da74-45fa-bdae-49e5f5ba0cdb.png">
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+explore application
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://user-images.githubusercontent.com/90253080/132362403-16c1c555-59d4-4f44-a7a6-6ec837828929.png">
+<img src="https://user-images.githubusercontent.com/90253080/132362440-edc4b8e3-9bfb-460f-9b64-713df57e3427.png">
+
+follow order status
+
+<img src="https://user-images.githubusercontent.com/90253080/132364170-d27b2d95-fea9-4d1a-b4ab-0cd8d7851041.png">
+
+admin controll pannel 
+
+<img src="https://user-images.githubusercontent.com/90253080/132364235-ecbef88d-7f97-48d9-89b9-fa4188eabd4d.png">
+
+
+
+
